@@ -1,0 +1,42 @@
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    line-height: 2;
+}
+#main{
+    margin-left: 300px;
+} 
+.name{
+    width: 285px;
+    padding: 10px;
+}
+#name{
+    margin-left: 10px;
+}
+#dept,#date{
+    width: 610px;
+    font-size: 16px;
+    padding: 10px;
+    color: gray;
+}
+#list{
+    width: 630px;
+    font-size: 16px;
+    padding: 10px;
+    color: gray;
+}
+button{
+    border-radius: 30px;
+    background-color: #46acd4;
+    border: 1px solid #46acd4;
+    width: 130px;
+    font-size: 18px;
+    color: white;
+    margin-left: 250px;
+} 
+.box{
+    display: inline-block;
+    width:150px;
+    border:1px solid black;
+}
